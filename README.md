@@ -19,4 +19,9 @@ pythonで画像処理がめっちゃ流行っていますが、Rでも画像処�
 ・画像のリサイズ<br>
 ・画像のグレースケール化<br>
 
-https://user-images.githubusercontent.com/29366710/58598617-133f0000-82b8-11e9-9516-0eb38bc49303.jpg
+![original](https://user-images.githubusercontent.com/29366710/58598617-133f0000-82b8-11e9-9516-0eb38bc49303.jpg)
+![edge_kmeans2](https://user-images.githubusercontent.com/29366710/58598675-484b5280-82b8-11e9-99e9-fffa1b4ecd69.jpg)
+![edge_kmeans4](https://user-images.githubusercontent.com/29366710/58598678-4bded980-82b8-11e9-9c5b-d4a16860c912.jpg)
+![edge_kmeans8](https://user-images.githubusercontent.com/29366710/58598682-4ed9ca00-82b8-11e9-8982-60bf6d523225.jpg)
+![edge_kmeans16](https://user-images.githubusercontent.com/29366710/58598687-5305e780-82b8-11e9-8b21-c301b66c62ed.jpg)
+![edge](https://user-images.githubusercontent.com/29366710/58598701-5dc07c80-82b8-11e9-99fe-41b56957ebc6.jpg)
