@@ -18,16 +18,16 @@ pythonで画像処理がめっちゃ流行っていますが、Rでも画像処�
 ・画像のファイルの位置を全検索<br>
 ・画像のリサイズ<br>
 ・画像のグレースケール化<br>
-
-For example, try to create an illustration-style filter
-・Edge detection
-・Color reduction processing by k-means
-・Superimposition of images by multiplication
-
-例えばイラスト風のフィルタを作ってみる
-・エッジ検出
-・k-meansによる減色処理
-・乗算による画像の重ね合わせ
+<br><br>
+For example, try to create an illustration-style filter<br>
+・Edge detection<br>
+・Color reduction processing by k-means<br>
+・Superimposition of images by multiplication<br>
+<br><br>
+例えばイラスト風のフィルタを作ってみる<br>
+・エッジ検出<br>
+・k-meansによる減色処理<br>
+・乗算による画像の重ね合わせ<br>
 
 # 結果
 オリジナル画像<br>
