@@ -30,7 +30,7 @@ For example, try to create an illustration-style filter<br>
 ・乗算による画像の重ね合わせ<br>
 
 # 結果
-オリジナル画像<br>
+オリジナル画像（筆者がオーストラリアに行ったときの写真）<br>
 ![original](https://user-images.githubusercontent.com/29366710/58598617-133f0000-82b8-11e9-9516-0eb38bc49303.jpg)<br>
 エッジ抽出<br>
 ![edge](https://user-images.githubusercontent.com/29366710/58598701-5dc07c80-82b8-11e9-99fe-41b56957ebc6.jpg)<br><br>
