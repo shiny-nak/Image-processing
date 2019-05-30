@@ -43,4 +43,8 @@ k=8<br>
 ![edge_kmeans8](https://user-images.githubusercontent.com/29366710/58598682-4ed9ca00-82b8-11e9-8982-60bf6d523225.jpg)<br><br>
 k=16<br>
 ![edge_kmeans16](https://user-images.githubusercontent.com/29366710/58598687-5305e780-82b8-11e9-8b21-c301b66c62ed.jpg)<br>
+<br>
+# 考察
+空などのグラデーションが掛かっているところは特に減色処理が顕著に現れます。<br>
+多くのイラストではグラデーションは多用されるので、この点は上手く言っているとは言い難いです。どちらかというと、漫画みたいなフィルタに近いでしょうか。<br>
 
